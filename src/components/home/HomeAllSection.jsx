@@ -1,7 +1,7 @@
+"use client";
 import Image from "next/image";
 import separatorIcon from "@/assets/separatorIcon.svg";
 import { LiaLongArrowAltRightSolid } from "react-icons/lia";
-
 import TwoServiceCard from "./TwoServiceCard";
 import Link from "next/link";
 import LogoShowcase from "./LogoShowcase";
@@ -11,42 +11,6 @@ import FourServiceCard from "./FourServiceCard";
 import ThreeServiceCard from "./ThreeServiceCard";
 
 const HomeAllSection = () => {
-  // const buttons = [
-  //   {
-  //     label: "1",
-  //     class: "bg-[#009da0] py-3.5 rounded-full px-5 text-white text-sm",
-  //   },
-  //   {
-  //     label: "2",
-  //     class:
-  //       "hover:bg-[#009da0] hover:text-white duration-300 transition-all ease-in py-3.5 rounded-full px-5 text-[#667085] text-sm",
-  //   },
-  //   {
-  //     label: "3",
-  //     class:
-  //       "hover:bg-[#009da0] hover:text-white duration-300 transition-all ease-in py-3.5 rounded-full px-5 text-[#667085] text-sm",
-  //   },
-  //   {
-  //     label: "...",
-  //     class:
-  //       "hover:bg-[#009da0] hover:text-white duration-300 transition-all ease-in py-3.5 rounded-full font-semibold px-[18px] text-[#667085] text-sm",
-  //   },
-  //   {
-  //     label: "8",
-  //     class:
-  //       "hover:bg-[#009da0] hover:text-white duration-300 transition-all ease-in py-3.5 rounded-full px-5 text-[#667085] text-sm",
-  //   },
-  //   {
-  //     label: "9",
-  //     class:
-  //       "hover:bg-[#009da0] hover:text-white duration-300 transition-all ease-in py-3.5 rounded-full px-5 text-[#667085] text-sm",
-  //   },
-  //   {
-  //     label: "10",
-  //     class:
-  //       "hover:bg-[#009da0] hover:text-white duration-300 transition-all ease-in py-3.5 rounded-full px-4 text-[#667085] text-sm",
-  //   },
-  // ];
   return (
     <div>
       <p className="bg-[#F7FEFC]"></p>

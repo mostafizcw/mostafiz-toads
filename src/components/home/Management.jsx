@@ -3,8 +3,9 @@ import { useKeenSlider } from "keen-slider/react";
 import Image from "next/image";
 import { useState } from "react";
 import { LiaLongArrowAltRightSolid } from "react-icons/lia";
-import tonyLeclerc from "../../assets/home/management/Tony Leclerc Director.jpg";
-import nazmulHaque from "../../assets/home/management/Nazmul Haque Khokan, General Manager.JPG";
+import tonyLeclerc from "@/assets/home/management/Tony Leclerc Director.jpg";
+// import tonyLeclerc from "../../assets/home/management/Tony Leclerc Director.jpg";
+import nazmulHaque from "@/assets/home/management/Nazmul Haque Khokan, General Manager.JPG";
 
 const Management = () => {
   const [currentSlide, setCurrentSlide] = useState(0);

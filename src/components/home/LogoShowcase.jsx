@@ -1,4 +1,4 @@
-"use client"
+"use client";
 import Image from "next/image";
 import faconnable from "../../assets/home/companyLogo/Faconnable.png";
 import protest from "../../assets/home/companyLogo/Protest.png";

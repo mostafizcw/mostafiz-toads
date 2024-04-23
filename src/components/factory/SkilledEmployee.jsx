@@ -1,4 +1,3 @@
-import React from "react";
 import employeeOne from "@/assets/factory/employeeOne.png";
 import employeeTwo from "@/assets/factory/employeeTwo.png";
 import employeeThree from "@/assets/factory/employeeThree.png";

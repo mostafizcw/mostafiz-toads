@@ -1,3 +1,4 @@
+"use client";
 import cardOne from "@/assets/home/cardImage/cardOne.png";
 import cardTwo from "@/assets/home/cardImage/cardTwo.png";
 import cardThree from "@/assets/home/cardImage/cardThree.png";

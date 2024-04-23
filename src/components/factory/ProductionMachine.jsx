@@ -127,8 +127,7 @@ const ProductionMachine = () => {
             <p>Hourly Production: 350 Pcs</p>
           </div>
         </div>
-      </div>{" "}
-      F
+      </div>
     </div>
   );
 };

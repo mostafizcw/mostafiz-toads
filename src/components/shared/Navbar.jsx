@@ -1,3 +1,4 @@
+"use client";
 import { FaWhatsapp } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 // import MenuBar from "./MenuBar";

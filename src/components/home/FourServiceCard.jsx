@@ -1,3 +1,4 @@
+"use client";
 import cardOne from "@/assets/home/categoryImage/Discharge/one.png";
 import cardTwo from "@/assets/home/categoryImage/Foil Print/one.png";
 import cardThree from "@/assets/home/categoryImage/Glitter/one.png";

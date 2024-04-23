@@ -1,4 +1,4 @@
-/* This example requires Tailwind CSS v2.0+ */
+"use client"
 import { Fragment } from "react";
 import { Disclosure } from "@headlessui/react";
 // import { Bars3Icon, BellIcon, XMarkIcon } from '@heroicons/react/24/outline'
